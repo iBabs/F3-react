@@ -1,6 +1,6 @@
 .App{
   margin: auto;
   display: grid;
-  grid-template-columns: 1fr 1fr;
   text-align:center;
+  transition: all 500ms ease-in-out;
 }
